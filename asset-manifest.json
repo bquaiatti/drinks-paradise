@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drinks-paradise/static/css/main.2154b56e.chunk.css",
+    "main.js": "/drinks-paradise/static/js/main.20336d39.chunk.js",
+    "main.js.map": "/drinks-paradise/static/js/main.20336d39.chunk.js.map",
+    "runtime-main.js": "/drinks-paradise/static/js/runtime-main.c423a553.js",
+    "runtime-main.js.map": "/drinks-paradise/static/js/runtime-main.c423a553.js.map",
+    "static/js/2.98b1616e.chunk.js": "/drinks-paradise/static/js/2.98b1616e.chunk.js",
+    "static/js/2.98b1616e.chunk.js.map": "/drinks-paradise/static/js/2.98b1616e.chunk.js.map",
+    "index.html": "/drinks-paradise/index.html",
+    "precache-manifest.c2bbc13549db8c2a73059b8c58bd9f2a.js": "/drinks-paradise/precache-manifest.c2bbc13549db8c2a73059b8c58bd9f2a.js",
+    "service-worker.js": "/drinks-paradise/service-worker.js",
+    "static/css/main.2154b56e.chunk.css.map": "/drinks-paradise/static/css/main.2154b56e.chunk.css.map",
+    "static/js/2.98b1616e.chunk.js.LICENSE.txt": "/drinks-paradise/static/js/2.98b1616e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c423a553.js",
+    "static/js/2.98b1616e.chunk.js",
+    "static/css/main.2154b56e.chunk.css",
+    "static/js/main.20336d39.chunk.js"
+  ]
+}
