@@ -5,7 +5,7 @@ const About = () => {
     <section className='section about-section'>
       <h1 className='section-title'>About us</h1>
       <p>
-      Are you bored of the same drinkss? The Drinks Paradise is here to help you!
+      Are you bored of the same drinks? Drinks Paradise is here to help you!
       Sometimes all you need is a good drink and some music.
       </p>
       <p>
